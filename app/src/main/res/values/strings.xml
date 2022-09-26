@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Landscape vs Portrait</string>
+    <string name="Landscape">Landscape</string>
+    <string name="Portrait">Portrait</string>
+</resources>
